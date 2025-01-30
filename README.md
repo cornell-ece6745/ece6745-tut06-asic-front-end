@@ -1,25 +1,9 @@
 
-ECE 5745 Tutorial 4: Synopsys/Cadence ASIC Tools
+ECE 6745 Tutorial 6: ASIC Front-End Flow
 ==========================================================================
 
-This repository contains the code and documentation for ECE 5745 Tutorial
-4 on the Synopsys/Cadence ASIC tools. This tutorial discusses the various
-views that make-up a standard-cell library and then illustrates how to
-use the Synopsys/Cadence ASIC tools to map an RTL design down to these
-standard cells and ultimately silicon. The tutorial discusses the key
-tools used for synthesis, place-and-route, and power analysis. This
-tutorial requires entering commands manually for each of the tools to
-enable students to gain a better understanding of the detailed steps
-involved in this process. The next tutorial will illustrate how this
-process can be automated to facilitate rapid design-space exploration.
-This tutorial assumes you have already completed the tutorials on Linux,
-Git, PyMTL, and Verilog.
+This repository contains source code for ECE 6745 Tutorial 6. The
+detailed tutorial document can be found here:
 
-You can find the actual tutorial document in the repo here:
-
- - [docs/index.md](docs/index.md)
-
-Or online here:
-
- - https://cornell-ece5745.github.io/ece5745-tut4-asic-tools
+ - https://cornell-ece6745.github.io/ece6745-docs/ece6745-tut06-asic-front-end
 
