@@ -42,7 +42,7 @@ module vc_Trace
   // Meant to be accesible from outside module
 
   integer cycles_next = 0;
-  integer cycles      = 0;
+  integer cycles;
 
   // Get trace level from command line
 
